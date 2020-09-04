@@ -1,5 +1,6 @@
 {
     "Version": "0.2.78",
     "UpdateDate": "2020/12/31",
-    "Description": "Bug Fixes & Improvements\n※これはテスト用のアップデート情報です。\n・エレメントをドラック操作で複数選択できるようにする改良\n・ページをドラック操作で別なノートブックに移動できる改良\n・書き出されるHTMLに、アプリのバージョン情報を入れる改良\n・通常形式で書き出されるHTML内の動画を video タグで埋め込む改良\n・通常形式で書き出されるHTML内の動画の中央に、再生ボタンを付ける改良\n・書き出されるHTML内のエレメントに、エレメントのidを付ける改良\n・書き出されるHTMLの縦長表示を改良"
+    "DescriptionJP": "Bug Fixes & Improvements\n※これはテスト用のアップデート情報です。\n・エレメントをドラック操作で複数選択できるようにする改良\n・ページをドラック操作で別なノートブックに移動できる改良\n・書き出されるHTMLに、アプリのバージョン情報を入れる改良\n・通常形式で書き出されるHTML内の動画を video タグで埋め込む改良\n・通常形式で書き出されるHTML内の動画の中央に、再生ボタンを付ける改良\n・書き出されるHTML内のエレメントに、エレメントのidを付ける改良\n・書き出されるHTMLの縦長表示を改良",
+    "DescriptionENG": "Bug Fixes & Improvements\n※This is a test description.\n・You can drag to select multiple elements.\n・You can drag the page to move it to a different notebook screen.\n・The application version information is included in exported HTML files.\n・You can embed videos from standard exported HTML files using the video tag.\n・A play button is included at the center of videos from standard exported HTML files.\n・The element id is included in the elements in standard exported HTML files.\n・Improved the portrait orientation display of exported HTML files."
 }
