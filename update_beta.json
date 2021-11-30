@@ -1,6 +1,6 @@
 {
-    "Version": "0.9.11",
-    "UpdateDate": "2022/1/1",
-    "DescriptionJP": "これはBetaテスト用のバージョンです。\n\nテスト用のメッセージです。",
-    "DescriptionENG": "This app is development version.\n\nThis is a test message."
+    "Version": "0.9.0",
+    "UpdateDate": "2021/11/30",
+    "DescriptionJP": "クローズドテスト用 Betaです。",
+    "DescriptionENG": "This is a closed test beta."
 }
