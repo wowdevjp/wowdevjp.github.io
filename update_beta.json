@@ -1,6 +1,6 @@
 {
-    "Version": "0.9.3",
-    "UpdateDate": "2022/11/22",
-    "DescriptionJP": "Features\n　・テキストエレメントの背景に、画像を表示できるになりました。\n　・画像エレメントにリンクをつけられるようになりました。\n　・ピクトグラムウィジェットにリンクをつけられるようになりました。\n\n・Bug Fixes & Improvements\n　・一部の環境でスライドを表示できない現象を修正",
+    "Version": "0.9.3.1",
+    "UpdateDate": "2022/12/5",
+    "DescriptionJP": "Bug Fixes & Improvements\n　・画像エレメントのキャプションの余白を修正しました。\n　・フレームレイアウトのときに、ブロック状態の画像エレメントの表示が乱れる現象を修正しました。\n　・フォルダ、スライドのリストのレイアウトが崩れることがある現象を修正しました。",
     "DescriptionENG": "This is a closed test beta."
 }
