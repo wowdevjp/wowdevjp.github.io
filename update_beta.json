@@ -1,6 +1,6 @@
 {
-    "Version": "0.9.3.1",
-    "UpdateDate": "2022/12/5",
-    "DescriptionJP": "Bug Fixes & Improvements\n　・画像エレメントのキャプションの余白を修正しました。\n　・フレームレイアウトのときに、ブロック状態の画像エレメントの表示が乱れる現象を修正しました。\n　・フォルダ、スライドのリストのレイアウトが崩れることがある現象を修正しました。",
+    "Version": "0.9.3.2",
+    "UpdateDate": "2023/01/19",
+    "DescriptionJP": "Bug Fixes & Improvements\n　・[Mac] macOS CatalinaがインストールされたMacで、ファイルを開く、または保存するときに、アプリがフリーズする不具合を修正しました。\n　ライセンス情報を更新しました。",
     "DescriptionENG": "This is a closed test beta."
 }
