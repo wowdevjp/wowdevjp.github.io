@@ -1,6 +1,6 @@
 {
     "Version": "0.9.3.2",
     "UpdateDate": "2023/01/19",
-    "DescriptionJP": "Bug Fixes & Improvements\n　・[Mac] macOS CatalinaがインストールされたMacで、ファイルを開く、または保存するときに、アプリがフリーズする不具合を修正しました。\n　ライセンス情報を更新しました。",
+    "DescriptionJP": "Bug Fixes & Improvements\n　・[Mac] macOS CatalinaがインストールされたMacで、ファイルを開く、または保存するときに、アプリがフリーズする不具合を修正しました。\n　・ライセンス情報を更新しました。",
     "DescriptionENG": "This is a closed test beta."
 }
