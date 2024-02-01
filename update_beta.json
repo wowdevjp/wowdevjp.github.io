@@ -1,6 +1,1 @@
-{
-  "Version": "0.9.8",
-  "UpdateDate": "2023/2/1",
-  "DescriptionJP": "<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>プレゼン画面の大きさが変わったときに、それまでのスクロール位置を保持するように変更しました。</indent>\r\n・<indent=3%>画像・動画・ウェブ動画エレメントを編集したときに動作が重くなる現象を修正しました。</indent>",
-  "DescriptionENG": "<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>Changed to retain the previous scroll position when the presentation screen size is changed.</indent>\r\n・<indent=3%>Fixed slowdown when editing images, videos, and web video elements.</indent>"
-}
+{"Version": "0.9.8","UpdateDate": "2023/2/1","DescriptionJP": "<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>プレゼン画面の大きさが変わったときに、それまでのスクロール位置を保持するように変更しました。</indent>\r\n・<indent=3%>画像・動画・ウェブ動画エレメントを編集したときに動作が重くなる現象を修正しました。</indent>","DescriptionENG": "<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>Changed to retain the previous scroll position when the presentation screen size is changed.</indent>\r\n・<indent=3%>Fixed slowdown when editing images, videos, and web video elements.</indent>"}
