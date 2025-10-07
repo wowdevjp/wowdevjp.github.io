@@ -1,6 +1,6 @@
 {
-  "Version": "0.9.11",
-  "UpdateDate": "2025/8/26",
-  "DescriptionJP": "<size=130%><b>Features</b></size>\r\n・<indent=3%>実験的機能として、スライドを印刷する機能を追加しました。メニューバーから「印刷・PDF出力 > フルページ」、または「印刷・PDF出力 > ページ分割」を実行すると印刷用のページを表示します。Safariではページサイズの調整が必要です。</indent>\r\n<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>アプリから出力したHTMLファイルのタイトル情報にページの名前を保存するようにしました。</indent>\r\n・<indent=3%>クラウドへスライドをアップロードするときに、直前のアップロードで設定した画像の圧縮設定とパスワードの設定を引き継ぐようにしました。</indent>\r\n・<indent=3%>一部の文字が正しく表示されない不具合を修正しました。</indent>\r\n・<indent=3%>複数選択したエレメントに共通する編集項目があるとき、インスペクターから一括で変更できるようになりました。</indent>\r\n・<indent=3%>プリセットのドキュメントに含まれる画像データの解像度をより高画質のものに変更しました。</indent>",
-  "DescriptionENG": "<size=130%><b>Features</b></size>\r\n・<indent=3%>Added an experimental feature: printing slides. You can now display print-ready pages by selecting 'Print / Export PDF > Full Page' or 'Print / Export PDF > Split Page' from the menu bar. Note: Page size adjustment is required on Safari.</indent>\r\n<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>The title of HTML files exported from the app now saves the page name.</indent>\r\n・<indent=3%>When uploading slides to the cloud, the image compression and password settings from the previous upload are now retained.</indent>\r\n・<indent=3%>Fixed an issue where some characters were not displayed correctly.</indent>\r\n・<indent=3%>When multiple elements are selected, common editing properties can now be changed collectively from the Inspector.</indent>\r\n・<indent=3%>The image data included in preset documents has been updated to higher resolution versions.</indent>"
+  "Version": "0.9.12",
+  "UpdateDate": "2025/10/07",
+  "DescriptionJP": "<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>Unity Technologiesから発表されたセキュリティ脆弱性(CVE-2025-59489)について、修正パッチを適用しました。Breakfastをご利用の際は、必ずアップデートお願いします。</indent>\r\n",
+  "DescriptionENG": "<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>We have applied the security patch addressing the vulnerability CVE-2025-59489 announced by Unity Technologies.Please make sure to update Breakfast before use.</indent>"
 }
