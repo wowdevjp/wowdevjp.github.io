@@ -1,6 +1,6 @@
 {
-  "Version": "0.9.12",
-  "UpdateDate": "2025/10/07",
-  "DescriptionJP": "<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>Unity Technologiesから発表されたセキュリティ脆弱性(CVE-2025-59489)について、修正パッチを適用しました。Breakfastをご利用の際は、必ずアップデートお願いします。</indent>\r\n",
-  "DescriptionENG": "<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>We have applied the security patch addressing the vulnerability CVE-2025-59489 announced by Unity Technologies.Please make sure to update Breakfast before use.</indent>"
+  "Version": "0.9.13",
+  "UpdateDate": "2025/12/25",
+  "DescriptionJP": "<size=130%><b>Features</b></size>\r\n・<indent=3%>スピーカーノートを追加しました。エレメントに発表用のテキスト追加し、プレゼン画面の「スピーカーノートの表示」から別ウィンドウで表示することができます。</indent>\r\n\r\n<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>特定の操作を行うとテキストエレメントの内容が書き換わる不具合を修正しました。</indent>\r\n・<indent=3%>スライドとフォルダのリストのデザインを更新しました。</indent>\r\n・<indent=3%>省エネルギー設定をデフォルトでは無効にしました。有効にする場合は環境設定 > 詳細設定 > 省エネルギー設定を「オート」に変更してください。</indent>\r\n・<indent=3%>画像エレメントを拡大表示したときに、エレメントに指定されている色の背景色を表示するようにしました。</indent>",
+  "DescriptionENG": "<size=130%><b>Features</b></size>\r\n・<indent=3%>Speaker notes have been added. You can now add presentation text to elements and display them in a separate window from the presentation screen via 'Show Speaker Notes.'</indent>\r\n\r\n<size=130%><b>Bug Fixes & Improvements</b></size>\r\n・<indent=3%>Fixed an issue where the content of a text element could be overwritten by certain operations.</indent>\r\n・<indent=3%>Updated the design of slide and folder lists.</indent>\r\n・<indent=3%>The energy saving setting is now disabled by default. To enable, go to Preferences > Advanced > Energy Saving and set to 'Auto.' </indent>\r\n・<indent=3%>When an image element is enlarged, the color specified for the element is now shown as the background color.</indent>"
 }
